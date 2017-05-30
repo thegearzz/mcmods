@@ -1,0 +1,3 @@
+you need forge mod loader. the link is here for a tutorial : 
+http://www.minecraftforum.net/forums/archive/tutorials/931485-how-to-download-forge-and-mods-mac
+copy the mods folder over after running it once
