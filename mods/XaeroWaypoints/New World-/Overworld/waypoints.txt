@@ -1,0 +1,12 @@
+waypoint:Cromson Obelisk:C:-228:75:70:4:false:0:gui.xaero_default:false:0
+waypoint:House:H:-121:55:61:15:false:0:gui.xaero_default:false:0
+waypoint:Caves:C:-132:36:99:8:false:0:gui.xaero_default:false:0
+waypoint:Mineshaft Entrance :S:-138:27:123:6:false:0:gui.xaero_default:false:0
+waypoint:OIL:O:-270:71:-64:0:false:0:gui.xaero_default:false:0
+waypoint:Strip Mine:S:-143:11:269:8:false:0:gui.xaero_default:false:0
+waypoint:Nether Portal:N:-138:11:287:5:false:0:gui.xaero_default:false:0
+waypoint:End Portal:E:-86:67:59:0:false:0:gui.xaero_default:false:0
+waypoint:Gate A:G:-133:50:65:9:false:0:gui.xaero_default:false:0
+waypoint:Gate B:G:-159:65:4796:9:false:0:gui.xaero_default:false:0
+waypoint:Blood Altar:B:-67:67:37:4:false:0:gui.xaero_default:false:0
+waypoint:FOB§§001:F:-90:74:4912:15:false:0:gui.xaero_default:false:0
