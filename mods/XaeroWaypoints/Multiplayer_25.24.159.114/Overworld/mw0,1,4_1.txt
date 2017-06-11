@@ -1,7 +1,0 @@
-waypoint:HOME:H:24:70:250:4:false:0:gui.xaero_default:false:0
-waypoint:Smelter:S:34:56:247:6:false:0:gui.xaero_default:false:0
-waypoint:MINE:M:71:11:208:7:false:0:gui.xaero_default:false:0
-waypoint:Tree Of Life:T:-357:67:260:2:false:0:gui.xaero_default:false:0
-waypoint:Waterfall:W:135:63:1244:11:false:0:gui.xaero_default:false:0
-waypoint:Progress:M:166:11:258:8:false:0:gui.xaero_default:false:0
-waypoint:gui.xaero_deathpoint:D:35:57:255:0:false:1:gui.xaero_default:false:0

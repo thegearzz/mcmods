@@ -16,12 +16,12 @@ showOtherTeam:true
 showWaypoints:true
 showIngameWaypoints:true
 displayRedstone:true
-deathpoints:false
+deathpoints:true
 oldDeathpoints:false
 distance:1
 showCoords:true
 lockNorth:false
-zoom:3
+zoom:4
 mapSize:-1
 entityAmount:1
 chunkGrid:-4
